@@ -1,0 +1,147 @@
+Fundamental
+
+- Asking for help
+  - How to ask a good question
+  - What to do before asking
+- Short history of computing
+  - Unix / Windows / MacOS
+  - CPU architectures
+- Terminal/CLI tools
+  - `PATH`
+  - Filesystem navigation
+  - System permissions
+    - Don't use `sudo`
+- Basic version control
+  - Repositories
+    - GitHub, BitBucket, GitLab
+  - Git
+    - Commits
+    - Branches
+    - Merging
+- Internet and network concepts
+- HTML and web standards
+- Security basics
+  - OWASP Top Ten
+  - CVEs
+  - Common web security challenges
+
+Technical
+
+- Version control
+  - Managing git history
+    - Rebasing
+    - Cherrypicking
+    - Advanced history tools
+      - git filter-repo
+      - Octopus merges
+  - Detailed git concepts
+    - Working directory
+    - Stash
+    - Commits
+    - Tags
+    - Remotes
+    - Resolving conflicts
+- Terminal skills
+  - Picking a shell
+    - bash
+    - fish
+    - zsh
+  - Basic scripting
+    - grep
+    - find
+  - Shell config and aliases
+- Debugging
+  - Chrome DevTools
+  - When to use a debugger
+  - Performance profiling
+  - Memory profiling
+- JavaScript syntax and language concepts
+  - Syntax and basic constructs
+    - if/for/while
+    - map/forEach/reduce
+    - promises and async/await
+  - Dom manipulation
+  - Browser and runtime differences
+    - Client-side JS
+    - Server-side JS
+    - Web workers
+    - Serverless
+  - Object-oriented patterns
+  - Functional programming patterns
+  - Closures
+  - App code
+  - Library code
+- CSS
+  - Specificity rules
+  - CSS frameworks
+  - Sass, CSS-in-JS, preprocessors
+  - Animation and transitions
+  - Layout
+    - Flexbox
+    - CSS Grid
+- Web app tools
+  - React
+  - Vue
+  - Angular
+  - Less popular tools
+    - SolidJS/Svelte/Qwik/etc
+    - Evaluating tools
+- State management
+  - React
+    - useState/useReducer
+  - Specific libraries
+    - Redux/Zustand/MobX
+  - State machines and modeling state accurately
+- Build tools
+  - Linting
+  - Bundling
+  - Asset processing
+  - git hooks
+- Typescript
+  - Value of type safety
+  - Downsides of `any` and `as`
+  - App vs library types
+  - Interfaces
+  - Discriminated unions
+- Testing
+  - Different levels of tests
+    - Unit
+    - Integration
+    - End-to-end
+  - What makes a test valuable
+  - Where linting/typechecks end and tests begin
+- CI/CD
+  - Docker
+  - GitHub actions
+- Advanced effects on the web
+  - SVG
+  - Canvas
+  - WebGL
+
+Interpersonal
+
+- Working with others
+  - Pull Requests
+  - Code Review
+- Asking for help
+  - How to ask a good question
+  - What to do before asking
+  - When to ask
+  - Coworkers and communities
+
+Career
+
+- Job searching
+  - Portfolios and projects
+  - Writing a resume
+- Project management tools
+  - Asana/Trello/Jira
+- Negotiating
+  - Salaries, bonuses, vacation
+  - Raises
+- Requesting time off
+- Managing up
+  - Personal task tracking
+  - Brag documents
+- Performance reviews
+  - Review cycle
